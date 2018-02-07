@@ -1,7 +1,7 @@
 package ru.lesson.lessons;
 
 /**
- *
+
  */
 
 public class Calculate{
